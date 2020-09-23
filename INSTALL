@@ -1,0 +1,9 @@
+Building TpmCoin
+
+See doc/readme-qt.rst for instructions on building TpmCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TpmCoin.
+
+See doc/build-*.txt for instructions on building tpmcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TpmCoin.

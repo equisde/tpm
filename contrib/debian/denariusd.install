@@ -1,0 +1,2 @@
+debian/bin/tpmcoind usr/bin
+src/tpmcoind usr/lib/tpmcoin

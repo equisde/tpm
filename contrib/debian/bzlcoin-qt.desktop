@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=TpmCoin
+Comment=TpmCoin P2P Cryptocurrency
+Comment[fr]=TpmCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=TpmCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/TpmCoin
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/tpmcoin;
+Categories=Office;
